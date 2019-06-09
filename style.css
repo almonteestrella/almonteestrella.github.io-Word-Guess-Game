@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+}
+
+.container{
+    width: 800px, auto;
+    margin: 100px, auto;
+    font-size: 25px;
+    text-align: center;
+    outline:  blue solid 5px;
+    background-color: darkcyan;
+}
